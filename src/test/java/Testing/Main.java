@@ -6,7 +6,7 @@ public class Main {
 		
 		Calculator cal = new Calculator(5,6);
 		
-		System.out.println(cal.add());
+		//System.out.println(cal.add());
 	}
 
 }
